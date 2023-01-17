@@ -1,0 +1,23 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f8f8f8;
+}
+
+a {
+  text-decoration: none;
+  padding: 8px 16px;
+  background-color: #4caf50;
+  color: white;
+  border-radius: 5px;
+}

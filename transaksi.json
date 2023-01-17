@@ -1,0 +1,20 @@
+[
+  {
+    "ID": "ID-1",
+    "Nominal": "RP. 100,000",
+    "Jenis": "Debet",
+    "Tanggal": "2018-09-10 16:00"
+  },
+  {
+    "ID": "ID-2",
+    "Nominal": "Rp. 500,000",
+    "Jenis": "Kredit",
+    "Tanggal": "2018-09-11 17:00"
+  },
+  {
+    "ID": "ID-1",
+    "Nominal": "Rp. 50,000",
+    "Jenis": "Kredit",
+    "Tanggal": "2018-09-11 17:00"
+  }
+]
